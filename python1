@@ -1,0 +1,19 @@
+
+name = "Your Name"
+fname = "Your Father's Name"
+mname = "Your Mother's Name"
+study = "Your Study/Profession"
+habits = "Your Habits or Hobbies"
+interests = "Your Interests"
+favorite_color = "Your Favorite Color"
+
+# Printing Personal Self Data
+print("Personal Self Data")
+print("------------------")
+print("Name:", yamini)
+print("Father's Name:", prabhu kumar)
+print("Mother's Name:", divya sree)
+print("Study/Profession:", pursuing degree)
+print("Habits/Hobbies:",singing)
+print("Interests:", Interested in establishing my career as a DOCTOR and to Be A DOCTOR)
+print("Favorite Color:", red)
